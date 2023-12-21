@@ -1,0 +1,27 @@
+.contn{
+    width:510px;
+    background-color:rgb(255, 208, 122);
+    height: 370px;
+    border-radius:20px 20px 20px 20px;
+    text-align: center;
+}
+
+.sidedivr{
+    float: right;
+}
+.sidedivl{
+    float: left;
+}
+body{
+    background-color: wheat;
+}
+.bton{
+    color:white;
+    background-color: orange;
+    border-radius: 10px;
+}
+.bton:hover{
+    color:orange;
+    background-color: white;
+    border-radius: 10px;
+}
